@@ -1,1 +1,3 @@
-# ubuntu
+# Ubuntu
+
+sudo bash ./install.sh
